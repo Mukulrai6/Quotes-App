@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">QuotesApp</string>
+     <string name="Quotes"> Quote </string>
+    <string name="Quote">You will face many defeats in life, but never let yourself be defeated.</string>
+</resources>
